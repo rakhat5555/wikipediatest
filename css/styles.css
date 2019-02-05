@@ -1,0 +1,59 @@
+.sidebar {
+  float: left;
+  background-color: #d9d9d9;
+}
+.nav-tabs input[type=text] {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.zeta {
+  float: left;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+}
+.paul {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.battle {
+  float: right;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.bernstein {
+  float: left;
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+.box {
+  margin: 12px;
+  border: 2px solid #d9f2df;
+  padding: 4px;
+  background-color: 	#bfd9bf;
+}
+.box2 {
+  margin: 12px;
+  padding: 4px;
+  background-color: #dce6ef;
+}
+
+.boxtop {
+  margin: 12px;
+  border: 2px #b4ff99;
+  padding: 4px;
+  background-color: #f7eeee;
+}
+.container {
+  border: 2px solid #e6f2ff;
+}
